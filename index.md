@@ -12,4 +12,3 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
    - [x] Thalapathy-Leo
    - [x] releasing 19th
    - [x] badass as leodass
-    
