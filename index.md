@@ -7,8 +7,8 @@ var myVar = "Hello, world!";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- [x] Turn on GitHub Pages
-- [x] Introduce my
-- [x] Thalapathy-Leo
-- [x] releasing 19th
-- [x] badass as leodass
+- [ ] Turn on GitHub Pages
+- [ ] Introduce my
+- [ ] Thalapathy-Leo
+- [ ] releasing 19th
+- [ ] badass as leodass
