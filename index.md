@@ -9,6 +9,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 - [x] Turn on GitHub Pages
 - [x] Introduce my
-   - [x] Thalapathy-Leo
-   - [x] releasing 19th
-   - [x] badass as leodass
+- [x] Thalapathy-Leo
+- [x] releasing 19th
+- [x] badass as leodass
